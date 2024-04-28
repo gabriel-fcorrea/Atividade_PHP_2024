@@ -12,3 +12,6 @@ Abra o site e registre uma conta.
 Após o registro, faça o login.
 
 Você será redirecionado para a tela de boas-vindas.
+
+# Observações
+Os arquivos que possuem código encontra-se na branch "gabriel", por motivos de configuração do computador. 
